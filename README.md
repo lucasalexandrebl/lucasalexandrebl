@@ -5,6 +5,9 @@
 
 ![Lucas Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexandrebl&show_icons=true&theme=highcontrast)
 
+#### Sempre me desenvolvendo para conseguir o melhor das tecnologias,
+#### buscando mudar a vida das pessoas através da programação.
+<br>
 
 ## Minhas Tecnologias
 
@@ -14,6 +17,6 @@
     <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img aling="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
     <img aling="center" alt="SQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+</div>
 
-### Sempre me desenvolvendo para conseguir o melhor das tecnologias,
-### buscando mudar a vida das pessoas através da programação.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexandrebl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
